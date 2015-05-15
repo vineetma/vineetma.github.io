@@ -14,11 +14,15 @@ collections:
     output: true
   posts:
     output: true
+  projects:
+    output: true
+  contact:
+    output: true
 
 # Handling Reading
 safe:         false
 include:      [".htaccess", "bootstrap-glyphicons"]
-exclude:      []
+exclude:      ["Font-Awesome/src", "Font-Awesome/less", "Font-Awesome/scss"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

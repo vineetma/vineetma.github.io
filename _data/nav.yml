@@ -1,27 +1,22 @@
 - title: "Home"
   href: "/"
  
-- title: "Academics"
-  href: "/academics/"
+
+- title: "Credentials"
   subcategories:
-    - subtitle: "MBA from MDI, Gurgaon"
-      subhref: "/self/academics/index.html#mba"
-    - subtitle: "B.E. Electroncis from Pb. Engineering College, Chandigarh"
-      subhref: "/self/academics/index.html#engineering"
-    - subtitle: "School from Govt. Model School, Sector 35, Chandigarh"
-      subhref: "/self/academics/index.html#school"
- 
-- title: "Career"
-  subcategories:
-    - subtitle: "Delta Hamlin Pvt. Limited, Chandigarh, 3 months"
-      subhref: "/self/careers/index.html#dhl"
-    - subtitle: "Punjab Communications Limited, Mohali, 3 years"
-      subhref: "/self/careers/index.html#puncom"
-    - subtitle: "Punjab Communications Limited, Mohali, 3 years"
-      subhref: "/self/careers/index.html#puncom"
+    - subtitle: "Academics"
+      subhref: "/self/academics/index.html"
+    - subtitle: "Career"
+      subhref: "/self/careers/index.html"
 - title: "Blogs"
   subcategories:
      - subtitle: "Health"
        subhref: "/categories/health"
      - subtitle: "Books and Reflection"
        subhref: "/categories/booksandreflection"
+- title: "Projects"
+  subcategories:
+     - subtitle: "Community Business Mobile Framework"
+       subhref: "/projects/comliive"
+- title: "Contact Me"
+  href: "/contact"
