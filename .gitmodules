@@ -1,3 +1,9 @@
 [submodule "_vendor/jekyll-menu"]
 	path = _vendor/jekyll-menu
 	url = https://github.com/Ahti/jekyll-menu.git
+[submodule "jekyll-plugins"]
+	path = jekyll-plugins
+	url = https://github.com/recurser/jekyll-plugins.git
+[submodule "bootstrap-glyphicons"]
+	path = bootstrap-glyphicons
+	url = https://github.com/marcoceppi/bootstrap-glyphicons.git

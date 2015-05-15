@@ -2,6 +2,16 @@
 layout: posts
 title: Diabetese - An avoidable deadly weakness
 overview: true
+author: Vineet Maheshwari
+place: Gurgaon
+tags:
+- diabetese
+- naturalcare
+- fitness
+- medicine
+- lifeinbalance
+categories:
+- health
 ---
 Lets write about
 * How it happens?

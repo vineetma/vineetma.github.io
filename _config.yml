@@ -12,12 +12,12 @@ collections:
     output: true
   self:
     output: true
-  blogs:
+  posts:
     output: true
 
 # Handling Reading
 safe:         false
-include:      [".htaccess"]
+include:      [".htaccess", "bootstrap-glyphicons"]
 exclude:      []
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"

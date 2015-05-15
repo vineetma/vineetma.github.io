@@ -46,3 +46,15 @@ code {
   font-size: 1.4em
 }
 
+.category-heading {
+  h1 {
+    display: inline-block;
+  }
+  display: block;
+}
+.rss-feeds {
+  display: inline-block;
+  a {
+    color: orange;
+  }
+}

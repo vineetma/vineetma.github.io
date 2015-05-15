@@ -5,6 +5,15 @@ overview: true
 ---
 
 <h1> pull partial htmls here for the latest post </h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 
 
 <h1> thought of the day and it's source </h1>

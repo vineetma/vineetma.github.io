@@ -2,6 +2,16 @@
 layout: posts
 title: Gandhi - A Common Man
 overview: true
+author: Vineet Maheshwari
+place: Gurgaon
+categories: 
+ - BooksAndReflection
+tags: 
+ - gandhi
+ - bapu
+ - patience
+ - debates
+ - changing times
 ---
 While reading "An Autobiography - My experiments with truth", at several instances I was surprised and could relate with myself as those instances are probably common occurances in everyone's life. What made him different despite leading life of a common man, meeting several failures.
 
