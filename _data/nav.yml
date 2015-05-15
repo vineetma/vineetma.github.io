@@ -39,3 +39,5 @@
       subhref: "/blogs/heroes"
     - subtitle: "Books and reflection"
       subhref: "/blogs/booksreflection"
+    - subtitle: "Health"
+      subhref: "/blogs/health"
