@@ -14,6 +14,8 @@
        subhref: "/categories/health"
      - subtitle: "Books and Reflection"
        subhref: "/categories/booksandreflection"
+     - subtitle: "Governance"
+       subhref: "/categories/governance"
 - title: "Projects"
   subcategories:
      - subtitle: "Community Business Mobile Framework"
