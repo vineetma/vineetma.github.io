@@ -10,12 +10,16 @@
       subhref: "/self/careers/index.html"
 - title: "Blogs"
   subcategories:
+     - subtitle: "Internet"
+       subhref: "/categories/internet"
      - subtitle: "Health"
        subhref: "/categories/health"
      - subtitle: "Books and Reflection"
        subhref: "/categories/booksandreflection"
      - subtitle: "Governance"
        subhref: "/categories/governance"
+     - subtitle: "Management"
+       subhref: "/categories/management"
 - title: "Projects"
   subcategories:
      - subtitle: "Community Business Mobile Framework"
