@@ -1,3 +1,4 @@
+jekyll build
 git commit -am"."
 git push origin gh-pages
 CWD=`pwd`
