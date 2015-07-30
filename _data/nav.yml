@@ -8,6 +8,9 @@
       subhref: "/self/academics/index.html"
     - subtitle: "Career - Connecting Dots"
       subhref: "/self/careers/index.html"
+    - subtitle: "Resume"
+      subhref: "/self/resume"
+
 - title: "Blogs"
   subcategories:
      - subtitle: "Internet"
