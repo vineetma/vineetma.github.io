@@ -89,7 +89,7 @@ When he exited HSC, not many business opportunities were available and he had po
 
 #Embarking on entrepreneurial journey
 
-##da Kine Technologies (Aug 2007 till now)
+##[da Kine Technologies](http://dakinegroup.github.io) (Aug 2007 till now)
 Vineet and Anshul Bhatnagar started this organization. Out of several options to develop, they nailed down on creating education portal with audio-video support for remote tutoring. In just 2 months, they had the prototype ready, up and running on cloud. This got attention with few good companies through the friend circle. Unfortunately, the initiative fell apart for various reasons, major being the visibility of making revenues out of the product and funding.
 
 Vineet continued with the company and started his MBA Course from October 2010, as he somewhere felt that getting formal knowledge of finance, marketing would have helped greatly in doing all of it. It was plan B, but eventually became primary goal from Jan-2011.
