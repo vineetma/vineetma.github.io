@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: health | ]]></title>
+  <link href="/categories/health/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2015-07-30T10:19:43+05:30</updated>
+  <id>/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Diabetese - An avoidable deadly weakness]]></title>
+    <link href="/health/2015/05/14/diabetese-an-attitude.html"/>
+    <updated>2015-05-14T00:00:00+05:30</updated>
+    <id>/health/2015/05/14/diabetese-an-attitude</id>
+    <content type="html"><![CDATA[<p>Lets write about
+* How it happens?
+* Old times v/s this problem
+    - Imagine Ashoka, Chandragupta winning, ruling “Bharatvarsh”
+    - Imagine fighting with 70+ kg of sword, of Tipu Sultan, Maharana Pratap
+    - Imagine fighting with mad elephant by Akbar
+    They might be exceptional beings, but are still human beings and a product of circumstances, which if one strives for, can also attain same excellence in their lives.
+* Changing times
+    - Jobs
+    - Family
+    - Medical
+    - Social
+* Correction
+* Useful tips
+* Useful resources</p>
+]]></content>
+  </entry>
+  
+</feed>
