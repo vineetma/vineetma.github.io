@@ -27,5 +27,16 @@
   subcategories:
      - subtitle: "Community Business Mobile Framework"
        subhref: "/projects/comliive"
+- title: "Tutorials"
+  subcategories:
+     - subtitle: "R-Language"
+       subhref: "http://vineetma.github.io/r_learn"
+     - subtitle: "Java - Learning by Project"
+       subhref: "subhref: "http://vineetma.github.io/springtutorial"
+     - subtitle: "Mobile App - Android Development"
+       subhref: "subhref: "http://vineetma.github.io/mobileapptutorial"
+     - subtitle: "NodeJs/AngularJs - Development"
+       subhref: "subhref: "http://vineetma.github.io/nodejsangular"
+
 - title: "Contact Me"
   href: "/contact"
