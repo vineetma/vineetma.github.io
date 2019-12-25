@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 overview: true
 title: automation projects
 ---

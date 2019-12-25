@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Home - Connecting the dots...
+title: Learning experience with Salesforce
 overview: true
 ---
 
