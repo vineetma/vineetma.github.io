@@ -3,7 +3,7 @@ layout: default
 overview: true
 title: 36 Courses undertaken during PGPM in 2010-2013
 ---
-#List of courses attended during PGPM 2010 - 2013
+# List of courses attended during PGPM 2010 - 2013
 
 | Course# | Subject | Professor |
 |----|----------------------------|------------|

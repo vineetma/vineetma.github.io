@@ -4,7 +4,7 @@ title: Academics
 overview: true
 ---
 
-###PGDBM (Part time), Management Development Institute, Passout 2013, <span style='color:#FFD700;'>[Gold Medalist](pgpm_credentials.html)</span>
+### PGDBM (Part time), Management Development Institute, Passout 2013, <span style='color:#FFD700;'>[Gold Medalist](pgpm_credentials.html)</span>
 
 <center>
  <img src="../../images/convocation_mdi.JPG"  style="border-style: double; border-width: 9px; border-color: rgb(200, 200, 200);"/>
@@ -24,7 +24,7 @@ Some of the [pearls of wisdom](pearls-of-wisdom.html) can be see here. These are
 
 <hr/>
 
-###B.E. Electronics and Electrical Communications, Punjab Engineering College, Passout 1994, <span style='color:#FFD700;'>[Honours](be_electronics_creds.html)</span>
+### B.E. Electronics and Electrical Communications, Punjab Engineering College, Passout 1994, <span style='color:#FFD700;'>[Honours](be_electronics_creds.html)</span>
 <center>
  <img src="../../images/vineet_taking_his_b_tech_degree.jpg"  style="border-style: double; border-width: 9px; border-color: rgb(200, 200, 200);"/>
 </center>
@@ -37,7 +37,7 @@ Prof. V. Rihani was a great support in promoting their technology passion and wi
 
 <hr/>
 
-###Six Sigma Black Belt - Training
+### Six Sigma Black Belt - Training
 Vineet, in 2010, opted for 12-days course with QAI to get trained on Six Sigma. He had strong believe in processes and their role to make a self-sustaining organization with continuous improvements. Processes when understood in detail, have dependency on metrics and statistical analysis. This is where, he found Six Sigma an enabler for any future application. He has interest in Statistics which also aligns well with this need. Learnt this again while he studied at MDI.
 
 <hr/>
