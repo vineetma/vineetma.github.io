@@ -4,11 +4,11 @@ title: Home - Resume
 overview: true
 ---
 
-#Resume
+# Resume
 
 Opportunities change every moment and so is the person as he learns through his experiences. Change is the only constant. With an intent to find a best fit and also be of use to someone, here are different profiles.
 
-##Why multiple profiles?
+## Why multiple profiles?
 Vineet has worked in different contexts:
 
 + Corporate and Startups

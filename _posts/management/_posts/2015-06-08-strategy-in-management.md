@@ -12,7 +12,7 @@ tags:
  - porter
 ---
 
-#Management Strategy (taught by Prof. Gopal Krishna Aggarwal)
+# Management Strategy (taught by Prof. Gopal Krishna Aggarwal)
 
 *"Success is 10% inspiration / Strategy, 90% perspiration, execution, implementation", Quoted in Management Class*
 

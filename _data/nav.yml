@@ -10,6 +10,8 @@
       subhref: "/self/careers/index.html"
     - subtitle: "Resume"
       subhref: "/self/resume"
+    - subtitle: "Salesforce"
+      subhref: "/self/salesforce"
 
 - title: "Blogs"
   subcategories:
