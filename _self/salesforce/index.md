@@ -43,14 +43,15 @@ Run the tests on org
 
 To get the code coverage
 
-* sdfc force:apex:test:run -c -u debuggerOrg -r human
-* -c stands for code coverage
+* ```sdfc force:apex:test:run -c -u debuggerOrg -r human```
+* ```-c``` stands for code coverage
 * note that this command runs all the tests. Question: I want only selected tests to run
-* human -- indicates the output is captured on the terminal. You can specify csv as well there.
+* ```human``` -- indicates the output is captured on the terminal. You can specify csv as well there.
 
 To get the report without running the tests
 
 * command
+
 ```
 sfdx force:data:soql:query -q
     'select ApexTestClass.Name,
