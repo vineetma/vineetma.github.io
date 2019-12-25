@@ -1,4 +1,10 @@
 
+---
+layout: default
+title: Home - Connecting the dots...
+overview: true
+---
+
 # Motivation for learning Salesforce
 
 a. If platform is so good, why people have to code so much
@@ -20,3 +26,35 @@ a. Administrator module (Beginner)
 b. Apex programming
 c. Testing
 d. Integrations
+
+# Working with Visual Code
+
+Update the code to salesforce org:
+
+* Authorize the org
+* Deploy this source to org
+
+Question: How can I upload multiple files to the org
+
+Run the tests on org
+
+* Ensure that the source code for test and code is deployed to org
+* Invoke Tests
+
+To get the code coverage
+
+* sdfc force:apex:test:run -c -u debuggerOrg -r human
+* -c stands for code coverage
+* note that this command runs all the tests. Question: I want only selected tests to run
+* human -- indicates the output is captured on the terminal. You can specify csv as well there.
+
+To get the report without running the tests
+
+* command
+    sfdx force:data:soql:query -q \
+        'select ApexTestClass.Name,
+         TestMethodName,
+        ApexClassOrTrigger.Name,
+        NumLinesUncovered,
+        NumLinesCovered,
+        Coverage from ApexCodeCoverage -u debuggerOrg -t -r human
