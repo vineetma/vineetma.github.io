@@ -51,7 +51,6 @@ To get the code coverage
 To get the report without running the tests
 
 * command
-
 ```
 sfdx force:data:soql:query -q
     'select ApexTestClass.Name,
