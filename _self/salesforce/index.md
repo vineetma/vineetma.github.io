@@ -52,7 +52,8 @@ To get the report without running the tests
 
 * command
 
-``` sfdx force:data:soql:query -q
+```
+sfdx force:data:soql:query -q
     'select ApexTestClass.Name,
     TestMethodName,
     ApexClassOrTrigger.Name,
